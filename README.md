@@ -31,14 +31,14 @@
 Ход работы:
 - Для Python в отчете привести скриншоты с демонстрацией сохранения документа google.colab на свой диск с запуском программы, выводящей сообщение Hello World.
 
-![Screenshot](src\Screenshot_2.png)
+![Screenshot](Screenshot_2.png)
 
 ## Задание 2
 ### Написать программы Hello World на Unity. 
 
 - Для Unity  в отчете привести скришноты вывода сообщения Hello World в консоль. 
 
-![Screenshot](src\Screenshot_3.png)
+![Screenshot](Screenshot_3.png)
 
 
 ## Задание 3
